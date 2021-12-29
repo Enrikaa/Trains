@@ -1,6 +1,6 @@
-# Trains
+### Trains
 
-#Instructions to use program:
+## Instructions to use program:
 
 1. Write locomative information.
 2. Select how many wagons is needed.
