@@ -1,0 +1,23 @@
+{
+    "train": {
+        "locomative": {
+            "locomative_own_mass_in_metric_tones": "locomative own mass - 2\n",
+            "locomative_max_towable_mass": "locomative max towable mass - 3\n"
+        },
+        "wagons": [
+            [
+                "wagon specific mass - 1\n",
+                "wagon load carried mass - 3\n",
+                "wagon max load mass - 6\n",
+                "wagon unique number - 5\n"
+            ],
+            [
+                "wagon specific mass - 1\n",
+                "wagon load carried mass - 3\n",
+                "wagon max load mass - 6\n",
+                "wagon unique number - 5\n"
+            ]
+        ]
+    },
+    "train_wagons_mass": null
+}

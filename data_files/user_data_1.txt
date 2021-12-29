@@ -1,0 +1,12 @@
+locomative own mass - 2
+locomative max towable mass - 3
+wagon specific mass - 1
+wagon load carried mass - 3
+wagon max load mass - 6
+wagon unique number - 5
+wagon specific mass - 1
+wagon load carried mass - 3
+wagon max load mass - 6
+wagon unique number - 5
+train_wagon_mass - 10
+
