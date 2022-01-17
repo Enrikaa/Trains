@@ -64,5 +64,3 @@ def get_train():
     else:
         save_data_to_json_file(sort_function(trains_list), "data_files/data.json")
         return "Have a nice day! We uploaded your trains information in data_files.json file"
-
-get_train()

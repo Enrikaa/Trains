@@ -57,7 +57,7 @@ class TestTrain(BaseTestCase):
 
     @patch("main.write_or_upload_file", return_value="upload")
     @patch("main.load_file_name", return_value="data_files/user_data_1.txt")
-    @patch("utils.helpers.upload_file_to_json")
+    @patch("utils.train_tasks.upload_file_to_json")
     def test_file_uploading_success(self, write_or_upload, get_load_file_name, upload_file_to_json,
                                     wagon_unique_wagon_number, wagon_max_load_mass, wagon_load_carried_mass,
                                     locomative_max_towable_mass, locomative_own_mass):
